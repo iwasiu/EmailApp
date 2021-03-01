@@ -96,8 +96,4 @@ public class Email {
 				+"mb";
 	}
 
-	
-	
-	
-
 }
